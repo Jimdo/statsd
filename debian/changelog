@@ -1,3 +1,10 @@
+statsd (0.7.2+jimdo1) unstable; urgency=low
+
+  * master branch as of 17.02.2016
+  * debian build was broken in 0.7.2
+
+ -- Daniel Bonkowski <bonko@jimdo.com>  Wed, 17 Feb 2016 11:23:00 +0100
+
 statsd (0.7.2) unstable; urgency=low
 
   * Align version number to git tag versions
